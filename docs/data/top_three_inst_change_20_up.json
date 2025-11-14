@@ -392,6 +392,13 @@
     "change": 0.0
   },
   {
+    "code": "00684R",
+    "name": "期元大美元指反1",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
     "code": "00685L",
     "name": "群益臺灣加權正2",
     "market": "TWSE",
@@ -639,20 +646,6 @@
   {
     "code": "00770",
     "name": "國泰北美科技",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "00771",
-    "name": "元大US高息特別股",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "00775B",
-    "name": "新光投等債15+",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1274,13 +1267,6 @@
     "change": 0.0
   },
   {
-    "code": "02001R",
-    "name": "富邦蘋果反一N",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
     "code": "1101",
     "name": "台泥",
     "market": "TWSE",
@@ -1395,6 +1381,20 @@
   {
     "code": "1220",
     "name": "台榮",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "1225",
+    "name": "福懋油",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "1227",
+    "name": "佳格",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
