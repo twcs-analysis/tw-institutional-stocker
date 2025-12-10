@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.7438060864033313,
     "three_inst_ratio_change_20": 0.9899999999999998
+  },
+  {
+    "date": "2025-12-09",
+    "code": "6830",
+    "name": "汎銓",
+    "market": "TWSE",
+    "foreign_ratio": 2.55,
+    "trust_ratio": 0.1738060864033314,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.7238060864033313,
+    "three_inst_ratio_change_20": 0.9199999999999999
   }
 ]

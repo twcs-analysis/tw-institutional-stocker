@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.45,
     "three_inst_ratio_change_20": 0.16999999999999993
+  },
+  {
+    "date": "2025-12-09",
+    "code": "00634R",
+    "name": "富邦上証反1",
+    "market": "TWSE",
+    "foreign_ratio": 6.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.44,
+    "three_inst_ratio_change_20": 0.16000000000000014
   }
 ]

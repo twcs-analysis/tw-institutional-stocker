@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.65,
     "three_inst_ratio_change_20": -0.010000000000000231
+  },
+  {
+    "date": "2025-12-09",
+    "code": "3591",
+    "name": "艾笛森",
+    "market": "TWSE",
+    "foreign_ratio": 2.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.6,
+    "three_inst_ratio_change_20": -0.10000000000000009
   }
 ]

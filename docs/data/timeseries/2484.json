@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.27,
     "three_inst_ratio_change_20": 0.02999999999999936
+  },
+  {
+    "date": "2025-12-09",
+    "code": "2484",
+    "name": "希華",
+    "market": "TWSE",
+    "foreign_ratio": 5.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.28,
+    "three_inst_ratio_change_20": 0.040000000000000036
   }
 ]

@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.2906679415389064,
     "three_inst_ratio_change_20": 0.06999999999999984
+  },
+  {
+    "date": "2025-12-09",
+    "code": "2427",
+    "name": "三商電",
+    "market": "TWSE",
+    "foreign_ratio": 3.13,
+    "trust_ratio": 0.16066794153890665,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2906679415389064,
+    "three_inst_ratio_change_20": -0.20999999999999996
   }
 ]

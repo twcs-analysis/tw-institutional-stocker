@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.92,
     "three_inst_ratio_change_20": 0.25
+  },
+  {
+    "date": "2025-12-09",
+    "code": "1313",
+    "name": "聯成",
+    "market": "TWSE",
+    "foreign_ratio": 7.75,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.75,
+    "three_inst_ratio_change_20": 0.07000000000000028
   }
 ]

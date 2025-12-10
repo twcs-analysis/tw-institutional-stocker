@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.447740538390983,
     "three_inst_ratio_change_20": -2.1382305728469406
+  },
+  {
+    "date": "2025-12-09",
+    "code": "4722",
+    "name": "國精化",
+    "market": "TWSE",
+    "foreign_ratio": 4.22,
+    "trust_ratio": 0.3067510189749353,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.526751018974935,
+    "three_inst_ratio_change_20": -2.0892200922629884
   }
 ]

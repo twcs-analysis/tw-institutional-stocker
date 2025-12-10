@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.084863544047268,
     "three_inst_ratio_change_20": 0.2572144332445889
+  },
+  {
+    "date": "2025-12-09",
+    "code": "6505",
+    "name": "台塑化",
+    "market": "TWSE",
+    "foreign_ratio": 6.02,
+    "trust_ratio": 0.07486354404726803,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.094863544047268,
+    "three_inst_ratio_change_20": 0.20325134696465952
   }
 ]

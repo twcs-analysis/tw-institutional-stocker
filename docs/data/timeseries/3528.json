@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.87,
     "three_inst_ratio_change_20": -1.9699999999999998
+  },
+  {
+    "date": "2025-12-09",
+    "code": "3528",
+    "name": "安馳",
+    "market": "TWSE",
+    "foreign_ratio": 2.9,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.9,
+    "three_inst_ratio_change_20": -1.6800000000000002
   }
 ]

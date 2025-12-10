@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.83436295508828,
     "three_inst_ratio_change_20": -3.2130748347329963
+  },
+  {
+    "date": "2025-12-09",
+    "code": "8081",
+    "name": "致新",
+    "market": "TWSE",
+    "foreign_ratio": 22.43,
+    "trust_ratio": 0.1505371717184658,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.580537171718465,
+    "three_inst_ratio_change_20": -3.556900618102812
   }
 ]

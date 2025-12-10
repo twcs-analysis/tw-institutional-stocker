@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.279929289581261,
     "three_inst_ratio_change_20": -0.5179029941442934
+  },
+  {
+    "date": "2025-12-09",
+    "code": "6753",
+    "name": "龍德造船",
+    "market": "TWSE",
+    "foreign_ratio": 4.46,
+    "trust_ratio": 0.6399292895812617,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.099929289581262,
+    "three_inst_ratio_change_20": -0.787902994144293
   }
 ]

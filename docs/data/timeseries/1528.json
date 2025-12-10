@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.78,
     "three_inst_ratio_change_20": -2.1300000000000003
+  },
+  {
+    "date": "2025-12-09",
+    "code": "1528",
+    "name": "恩德",
+    "market": "TWSE",
+    "foreign_ratio": 2.37,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.37,
+    "three_inst_ratio_change_20": -3.67
   }
 ]

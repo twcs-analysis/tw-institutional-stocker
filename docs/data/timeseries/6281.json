@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.11,
     "three_inst_ratio_change_20": -0.07000000000000028
+  },
+  {
+    "date": "2025-12-09",
+    "code": "6281",
+    "name": "全國電",
+    "market": "TWSE",
+    "foreign_ratio": 2.11,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.11,
+    "three_inst_ratio_change_20": -0.050000000000000266
   }
 ]

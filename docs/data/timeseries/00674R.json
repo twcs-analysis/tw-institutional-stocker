@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.92,
     "three_inst_ratio_change_20": -0.029999999999999916
+  },
+  {
+    "date": "2025-12-09",
+    "code": "00674R",
+    "name": "期元大S&P黃金反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.92,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.92,
+    "three_inst_ratio_change_20": -0.039999999999999925
   }
 ]

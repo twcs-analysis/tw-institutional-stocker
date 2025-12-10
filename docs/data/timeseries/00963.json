@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.57,
     "three_inst_ratio_change_20": -1.78
+  },
+  {
+    "date": "2025-12-09",
+    "code": "00963",
+    "name": "中信全球高股息",
+    "market": "TWSE",
+    "foreign_ratio": 1.55,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.55,
+    "three_inst_ratio_change_20": -1.8099999999999998
   }
 ]

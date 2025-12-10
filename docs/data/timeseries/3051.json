@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.3541317365269463,
     "three_inst_ratio_change_20": 0.10377245508982069
+  },
+  {
+    "date": "2025-12-09",
+    "code": "3051",
+    "name": "力特",
+    "market": "TWSE",
+    "foreign_ratio": 3.59,
+    "trust_ratio": -0.3586826347305389,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.231317365269461,
+    "three_inst_ratio_change_20": -0.06904191616766431
   }
 ]

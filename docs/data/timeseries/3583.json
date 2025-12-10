@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.548647545065233,
     "three_inst_ratio_change_20": -0.716590976994322
+  },
+  {
+    "date": "2025-12-09",
+    "code": "3583",
+    "name": "辛耘",
+    "market": "TWSE",
+    "foreign_ratio": 11.19,
+    "trust_ratio": 3.3786475450652325,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.568647545065232,
+    "three_inst_ratio_change_20": -0.5412648142615275
   }
 ]

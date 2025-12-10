@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 37.15589180492906,
     "three_inst_ratio_change_20": 0.43608950599514174
+  },
+  {
+    "date": "2025-12-09",
+    "code": "3023",
+    "name": "信邦",
+    "market": "TWSE",
+    "foreign_ratio": 32.91,
+    "trust_ratio": 4.308807633125031,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.218807633125024,
+    "three_inst_ratio_change_20": 0.4673391466505521
   }
 ]

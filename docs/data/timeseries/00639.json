@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.137002555348573,
     "three_inst_ratio_change_20": -0.2929014101361802
+  },
+  {
+    "date": "2025-12-09",
+    "code": "00639",
+    "name": "富邦深100",
+    "market": "TWSE",
+    "foreign_ratio": 1.86,
+    "trust_ratio": 0.2779650181024718,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.137965018102472,
+    "three_inst_ratio_change_20": -0.28193894738228176
   }
 ]

@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9,
     "three_inst_ratio_change_20": -0.2799999999999999
+  },
+  {
+    "date": "2025-12-09",
+    "code": "00642U",
+    "name": "期元大S&P石油",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.63,
+    "three_inst_ratio_change_20": -0.5499999999999999
   }
 ]

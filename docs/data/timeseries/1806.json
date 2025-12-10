@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.45988311540047,
     "three_inst_ratio_change_20": 0.03818868291443955
+  },
+  {
+    "date": "2025-12-09",
+    "code": "1806",
+    "name": "冠軍",
+    "market": "TWSE",
+    "foreign_ratio": 7.42,
+    "trust_ratio": 0.059883115400469776,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.47988311540047,
+    "three_inst_ratio_change_20": 0.05416531424240212
   }
 ]

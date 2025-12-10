@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.31,
     "three_inst_ratio_change_20": -2.31
+  },
+  {
+    "date": "2025-12-09",
+    "code": "00947",
+    "name": "台新臺灣IC設計",
+    "market": "TWSE",
+    "foreign_ratio": 1.27,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.27,
+    "three_inst_ratio_change_20": -0.09000000000000008
   }
 ]

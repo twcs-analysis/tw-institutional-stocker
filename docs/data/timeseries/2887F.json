@@ -273,5 +273,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.043,
     "three_inst_ratio_change_20": 0.043
+  },
+  {
+    "date": "2025-12-09",
+    "code": "2887F",
+    "name": "台新新光戊特二",
+    "market": "TWSE",
+    "foreign_ratio": 0.03,
+    "trust_ratio": 0.012666666666666666,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.042666666666666665,
+    "three_inst_ratio_change_20": 0.042666666666666665
   }
 ]

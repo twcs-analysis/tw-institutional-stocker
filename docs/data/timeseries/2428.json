@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.259774657515287,
     "three_inst_ratio_change_20": 1.7431608769295863
+  },
+  {
+    "date": "2025-12-09",
+    "code": "2428",
+    "name": "興勤",
+    "market": "TWSE",
+    "foreign_ratio": 13.61,
+    "trust_ratio": 2.7389940949348,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.3489940949348,
+    "three_inst_ratio_change_20": 1.8797000046662031
   }
 ]

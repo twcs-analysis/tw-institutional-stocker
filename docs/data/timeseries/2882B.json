@@ -537,5 +537,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7158571428571429,
     "three_inst_ratio_change_20": -0.02499999999999991
+  },
+  {
+    "date": "2025-12-09",
+    "code": "2882B",
+    "name": "國泰金乙特",
+    "market": "TWSE",
+    "foreign_ratio": 0.68,
+    "trust_ratio": 0.033,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.7130000000000001,
+    "three_inst_ratio_change_20": -0.02785714285714269
   }
 ]

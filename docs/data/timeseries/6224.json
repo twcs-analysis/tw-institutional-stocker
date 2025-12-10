@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.44,
     "three_inst_ratio_change_20": 0.35999999999999943
+  },
+  {
+    "date": "2025-12-09",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 9.46,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.46,
+    "three_inst_ratio_change_20": 0.28000000000000114
   }
 ]
