@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 27.74004384407245,
     "three_inst_ratio_change_20": 0.25440734742510074
+  },
+  {
+    "date": "2025-12-10",
+    "code": "1301",
+    "name": "台塑",
+    "market": "TWSE",
+    "foreign_ratio": 27.6,
+    "trust_ratio": -0.0011585611563092015,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.598841438843692,
+    "three_inst_ratio_change_20": -0.1267950578036583
   }
 ]

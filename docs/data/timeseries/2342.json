@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.19,
     "three_inst_ratio_change_20": 2.19
+  },
+  {
+    "date": "2025-12-10",
+    "code": "2342",
+    "name": "茂矽",
+    "market": "TWSE",
+    "foreign_ratio": 1.94,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.94,
+    "three_inst_ratio_change_20": 1.94
   }
 ]

@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.457654009858725,
     "three_inst_ratio_change_20": 1.5855586265729578
+  },
+  {
+    "date": "2025-12-10",
+    "code": "1303",
+    "name": "南亞",
+    "market": "TWSE",
+    "foreign_ratio": 27.97,
+    "trust_ratio": 1.3394055433971004,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.309405543397098,
+    "three_inst_ratio_change_20": 1.3811298566509684
   }
 ]

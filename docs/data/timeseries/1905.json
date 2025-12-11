@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.9800958438657763,
     "three_inst_ratio_change_20": -0.029999999999999805
+  },
+  {
+    "date": "2025-12-10",
+    "code": "1905",
+    "name": "華紙",
+    "market": "TWSE",
+    "foreign_ratio": 2.96,
+    "trust_ratio": 9.584386577623889e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.9600958438657763,
+    "three_inst_ratio_change_20": -0.1299999999999999
   }
 ]

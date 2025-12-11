@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.44,
     "three_inst_ratio_change_20": -0.44999999999999996
+  },
+  {
+    "date": "2025-12-10",
+    "code": "00763U",
+    "name": "期街口道瓊銅",
+    "market": "TWSE",
+    "foreign_ratio": 1.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.43,
+    "three_inst_ratio_change_20": -0.44000000000000017
   }
 ]

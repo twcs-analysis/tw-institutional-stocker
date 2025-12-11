@@ -647,5 +647,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 33.5122722826759,
     "three_inst_ratio_change_20": 0.3156070421664481
+  },
+  {
+    "date": "2025-12-10",
+    "code": "2884",
+    "name": "玉山金",
+    "market": "TWSE",
+    "foreign_ratio": 33.13,
+    "trust_ratio": 0.3803085631260047,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 33.51030856312601,
+    "three_inst_ratio_change_20": 0.29958090762953304
   }
 ]

@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.786721705606183,
     "three_inst_ratio_change_20": -0.7783663018198048
+  },
+  {
+    "date": "2025-12-10",
+    "code": "1519",
+    "name": "華城",
+    "market": "TWSE",
+    "foreign_ratio": 20.35,
+    "trust_ratio": 1.719018137104889,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.06901813710489,
+    "three_inst_ratio_change_20": -0.5403983210833765
   }
 ]

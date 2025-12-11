@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.8862458783438876,
     "three_inst_ratio_change_20": -0.06662937678229008
+  },
+  {
+    "date": "2025-12-10",
+    "code": "00733",
+    "name": "富邦臺灣中小",
+    "market": "TWSE",
+    "foreign_ratio": 1.75,
+    "trust_ratio": 0.16682125898135203,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.916821258981352,
+    "three_inst_ratio_change_20": 0.04394600385517444
   }
 ]

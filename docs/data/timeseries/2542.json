@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.886312902975794,
     "three_inst_ratio_change_20": -0.28122561045270267
+  },
+  {
+    "date": "2025-12-10",
+    "code": "2542",
+    "name": "興富發",
+    "market": "TWSE",
+    "foreign_ratio": 7.75,
+    "trust_ratio": 1.1388580584153973,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.888858058415398,
+    "three_inst_ratio_change_20": -0.21171761390807653
   }
 ]

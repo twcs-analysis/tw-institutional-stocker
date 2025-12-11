@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.969902953723569,
     "three_inst_ratio_change_20": -0.161905015977448
+  },
+  {
+    "date": "2025-12-10",
+    "code": "2540",
+    "name": "愛山林",
+    "market": "TWSE",
+    "foreign_ratio": 1.88,
+    "trust_ratio": 0.0994796168396914,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9794796168396913,
+    "three_inst_ratio_change_20": -0.18232835286132598
   }
 ]

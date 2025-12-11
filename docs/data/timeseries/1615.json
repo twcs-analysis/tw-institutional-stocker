@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.953729020518489,
     "three_inst_ratio_change_20": 0.09999999999999998
+  },
+  {
+    "date": "2025-12-10",
+    "code": "1615",
+    "name": "大山",
+    "market": "TWSE",
+    "foreign_ratio": 0.95,
+    "trust_ratio": 0.013729020518488969,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.963729020518489,
+    "three_inst_ratio_change_20": 0.010000000000000009
   }
 ]

@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.809878199124996,
     "three_inst_ratio_change_20": 1.8900000000000001
+  },
+  {
+    "date": "2025-12-10",
+    "code": "1720",
+    "name": "生達",
+    "market": "TWSE",
+    "foreign_ratio": 5.65,
+    "trust_ratio": 0.05987819912499596,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.709878199124996,
+    "three_inst_ratio_change_20": 1.8200000000000003
   }
 ]

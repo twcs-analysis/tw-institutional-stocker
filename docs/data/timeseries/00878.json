@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4507498609242317,
     "three_inst_ratio_change_20": 0.32807922518416277
+  },
+  {
+    "date": "2025-12-10",
+    "code": "00878",
+    "name": "國泰永續高股息",
+    "market": "TWSE",
+    "foreign_ratio": 0.45,
+    "trust_ratio": 0.0007501421753841783,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.45075014217538417,
+    "three_inst_ratio_change_20": 0.31807950643531524
   }
 ]

@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.122062264275813,
     "three_inst_ratio_change_20": -0.3471901686708243
+  },
+  {
+    "date": "2025-12-10",
+    "code": "6206",
+    "name": "飛捷",
+    "market": "TWSE",
+    "foreign_ratio": 7.86,
+    "trust_ratio": 1.3215652780811808,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.18156527808118,
+    "three_inst_ratio_change_20": -0.3738426765666141
   }
 ]

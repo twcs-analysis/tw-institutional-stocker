@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.819163860612365,
     "three_inst_ratio_change_20": 0.710058146318115
+  },
+  {
+    "date": "2025-12-10",
+    "code": "3033",
+    "name": "威健",
+    "market": "TWSE",
+    "foreign_ratio": 7.34,
+    "trust_ratio": 0.4976315668475637,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.837631566847564,
+    "three_inst_ratio_change_20": 0.5489783335750671
   }
 ]

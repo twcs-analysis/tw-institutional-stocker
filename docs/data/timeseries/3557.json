@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.66,
     "three_inst_ratio_change_20": -0.10000000000000009
+  },
+  {
+    "date": "2025-12-10",
+    "code": "3557",
+    "name": "嘉威",
+    "market": "TWSE",
+    "foreign_ratio": 1.55,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.55,
+    "three_inst_ratio_change_20": -0.17999999999999994
   }
 ]

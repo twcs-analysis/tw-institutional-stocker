@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.18,
     "three_inst_ratio_change_20": 0.129999999999999
+  },
+  {
+    "date": "2025-12-10",
+    "code": "2929",
+    "name": "淘帝-KY",
+    "market": "TWSE",
+    "foreign_ratio": 18.06,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.06,
+    "three_inst_ratio_change_20": -0.16000000000000014
   }
 ]

@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.39,
     "three_inst_ratio_change_20": 1.08
+  },
+  {
+    "date": "2025-12-10",
+    "code": "6923",
+    "name": "中台",
+    "market": "TWSE",
+    "foreign_ratio": 3.37,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.37,
+    "three_inst_ratio_change_20": 1.12
   }
 ]

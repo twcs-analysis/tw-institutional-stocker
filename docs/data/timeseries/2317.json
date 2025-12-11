@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 38.98257640383994,
     "three_inst_ratio_change_20": -1.123313229182827
+  },
+  {
+    "date": "2025-12-10",
+    "code": "2317",
+    "name": "鴻海",
+    "market": "TWSE",
+    "foreign_ratio": 38.49,
+    "trust_ratio": 0.48900312213835345,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 38.97900312213836,
+    "three_inst_ratio_change_20": -1.1820742453342632
   }
 ]

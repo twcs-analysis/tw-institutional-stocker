@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 63.71684784002978,
     "three_inst_ratio_change_20": -1.195732597019635
+  },
+  {
+    "date": "2025-12-10",
+    "code": "2360",
+    "name": "致茂",
+    "market": "TWSE",
+    "foreign_ratio": 61.58,
+    "trust_ratio": 2.104921537945447,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 63.68492153794544,
+    "three_inst_ratio_change_20": -1.069860570186691
   }
 ]

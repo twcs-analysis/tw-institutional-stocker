@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.155871917232162,
     "three_inst_ratio_change_20": 0.03501375021994768
+  },
+  {
+    "date": "2025-12-10",
+    "code": "2015",
+    "name": "豐興",
+    "market": "TWSE",
+    "foreign_ratio": 11.97,
+    "trust_ratio": 0.18432446040386727,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.154324460403869,
+    "three_inst_ratio_change_20": 0.023466293391654958
   }
 ]

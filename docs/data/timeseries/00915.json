@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3762970250457646,
     "three_inst_ratio_change_20": -0.10842637414724637
+  },
+  {
+    "date": "2025-12-10",
+    "code": "00915",
+    "name": "凱基優選高股息30",
+    "market": "TWSE",
+    "foreign_ratio": 0.36,
+    "trust_ratio": 0.04646913566478281,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.4064691356647828,
+    "three_inst_ratio_change_20": -0.09831434961891605
   }
 ]

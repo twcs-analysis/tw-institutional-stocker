@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.1541115882424537,
     "three_inst_ratio_change_20": -0.6499999999999999
+  },
+  {
+    "date": "2025-12-10",
+    "code": "3416",
+    "name": "融程電",
+    "market": "TWSE",
+    "foreign_ratio": 2.98,
+    "trust_ratio": 0.11411158824245356,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.0941115882424537,
+    "three_inst_ratio_change_20": -0.8700000000000001
   }
 ]

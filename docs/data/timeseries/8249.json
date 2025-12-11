@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.12,
     "three_inst_ratio_change_20": 0.18000000000000016
+  },
+  {
+    "date": "2025-12-10",
+    "code": "8249",
+    "name": "菱光",
+    "market": "TWSE",
+    "foreign_ratio": 2.12,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.12,
+    "three_inst_ratio_change_20": -0.06999999999999984
   }
 ]

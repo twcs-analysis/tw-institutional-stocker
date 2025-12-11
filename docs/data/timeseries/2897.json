@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.647302337402529,
     "three_inst_ratio_change_20": -0.1814423903815392
+  },
+  {
+    "date": "2025-12-10",
+    "code": "2897",
+    "name": "王道銀行",
+    "market": "TWSE",
+    "foreign_ratio": 5.56,
+    "trust_ratio": 0.08562697183264688,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.645626971832646,
+    "three_inst_ratio_change_20": -0.182761295191872
   }
 ]

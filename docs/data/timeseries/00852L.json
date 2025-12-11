@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.8,
     "three_inst_ratio_change_20": 1.950000000000001
+  },
+  {
+    "date": "2025-12-10",
+    "code": "00852L",
+    "name": "國泰美國道瓊正2",
+    "market": "TWSE",
+    "foreign_ratio": 8.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.86,
+    "three_inst_ratio_change_20": 1.8199999999999994
   }
 ]

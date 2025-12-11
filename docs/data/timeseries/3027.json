@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.5,
     "three_inst_ratio_change_20": -1.12
+  },
+  {
+    "date": "2025-12-10",
+    "code": "3027",
+    "name": "盛達",
+    "market": "TWSE",
+    "foreign_ratio": 2.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.52,
+    "three_inst_ratio_change_20": -1.06
   }
 ]
