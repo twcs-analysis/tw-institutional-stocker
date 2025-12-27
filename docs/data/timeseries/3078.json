@@ -691,5 +691,104 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.093639880237334,
     "three_inst_ratio_change_20": 0.14468466535694668
+  },
+  {
+    "date": "2025-12-15",
+    "code": "3078",
+    "name": "僑威",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 2.09276033819869,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.09276033819869,
+    "three_inst_ratio_change_20": 0.14468466535694646
+  },
+  {
+    "date": "2025-12-16",
+    "code": "3078",
+    "name": "僑威",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 2.09276033819869,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.09276033819869,
+    "three_inst_ratio_change_20": 0.14468466535694646
+  },
+  {
+    "date": "2025-12-17",
+    "code": "3078",
+    "name": "僑威",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 1.9801789572522517,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9801789572522517,
+    "three_inst_ratio_change_20": 0.05409183537660911
+  },
+  {
+    "date": "2025-12-18",
+    "code": "3078",
+    "name": "僑威",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 1.9801789572522517,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9801789572522517,
+    "three_inst_ratio_change_20": 0.05453160639593113
+  },
+  {
+    "date": "2025-12-19",
+    "code": "3078",
+    "name": "僑威",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 1.9801789572522517,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9801789572522517,
+    "three_inst_ratio_change_20": 0.05453160639593113
+  },
+  {
+    "date": "2025-12-22",
+    "code": "3078",
+    "name": "僑威",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 1.9788596441942856,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9788596441942856,
+    "three_inst_ratio_change_20": 0.053212293337965066
+  },
+  {
+    "date": "2025-12-23",
+    "code": "3078",
+    "name": "僑威",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 1.9810584992908955,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9810584992908955,
+    "three_inst_ratio_change_20": 0.05541114843457495
+  },
+  {
+    "date": "2025-12-24",
+    "code": "3078",
+    "name": "僑威",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 1.4819183923603965,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.4819183923603965,
+    "three_inst_ratio_change_20": -0.4437289584959241
+  },
+  {
+    "date": "2025-12-26",
+    "code": "3078",
+    "name": "僑威",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.9972907290675239,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9972907290675239,
+    "three_inst_ratio_change_20": -0.9283566217887966
   }
 ]

@@ -691,5 +691,104 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.1337732894667764,
     "three_inst_ratio_change_20": 0.04029506084606793
+  },
+  {
+    "date": "2025-12-15",
+    "code": "6548",
+    "name": "長科*",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.1337732894667764,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.1337732894667764,
+    "three_inst_ratio_change_20": 0.04061068795452277
+  },
+  {
+    "date": "2025-12-16",
+    "code": "6548",
+    "name": "長科*",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.13345766235832157,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.13345766235832157,
+    "three_inst_ratio_change_20": 0.0369283716892163
+  },
+  {
+    "date": "2025-12-17",
+    "code": "6548",
+    "name": "長科*",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.13356287139447318,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.13356287139447318,
+    "three_inst_ratio_change_20": 0.03356168253236465
+  },
+  {
+    "date": "2025-12-18",
+    "code": "6548",
+    "name": "長科*",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.13356287139447318,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.13356287139447318,
+    "three_inst_ratio_change_20": 0.03040541144781625
+  },
+  {
+    "date": "2025-12-19",
+    "code": "6548",
+    "name": "長科*",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.13314203524986673,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.13314203524986673,
+    "three_inst_ratio_change_20": 0.030615829520119486
+  },
+  {
+    "date": "2025-12-22",
+    "code": "6548",
+    "name": "長科*",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.13314203524986673,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.13314203524986673,
+    "three_inst_ratio_change_20": 0.03030020241166466
+  },
+  {
+    "date": "2025-12-23",
+    "code": "6548",
+    "name": "長科*",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.13314203524986673,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.13314203524986673,
+    "three_inst_ratio_change_20": 0.03030020241166466
+  },
+  {
+    "date": "2025-12-24",
+    "code": "6548",
+    "name": "長科*",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.1329316171775635,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.1329316171775635,
+    "three_inst_ratio_change_20": 0.030089784339361422
+  },
+  {
+    "date": "2025-12-26",
+    "code": "6548",
+    "name": "長科*",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.2541324268242221,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.2541324268242221,
+    "three_inst_ratio_change_20": 0.15118538494986844
   }
 ]

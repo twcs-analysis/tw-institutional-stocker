@@ -691,5 +691,104 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.608164737504756,
     "three_inst_ratio_change_20": 1.8169264960941263
+  },
+  {
+    "date": "2025-12-15",
+    "code": "5274",
+    "name": "信驊",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 4.617952402058213,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.617952402058213,
+    "three_inst_ratio_change_20": 1.8320047901359384
+  },
+  {
+    "date": "2025-12-16",
+    "code": "5274",
+    "name": "信驊",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 4.841436527590567,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.841436527590567,
+    "three_inst_ratio_change_20": 1.775873856579235
+  },
+  {
+    "date": "2025-12-17",
+    "code": "5274",
+    "name": "信驊",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 4.90227876670665,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.90227876670665,
+    "three_inst_ratio_change_20": 1.8301028088348748
+  },
+  {
+    "date": "2025-12-18",
+    "code": "5274",
+    "name": "信驊",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 5.029253874427174,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.029253874427174,
+    "three_inst_ratio_change_20": 1.8067182264963457
+  },
+  {
+    "date": "2025-12-19",
+    "code": "5274",
+    "name": "信驊",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 5.085863609952574,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.085863609952574,
+    "three_inst_ratio_change_20": 1.9030076831844087
+  },
+  {
+    "date": "2025-12-22",
+    "code": "5274",
+    "name": "信驊",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 5.048829203534087,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.048829203534087,
+    "three_inst_ratio_change_20": 1.589048502771694
+  },
+  {
+    "date": "2025-12-23",
+    "code": "5274",
+    "name": "信驊",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 5.061791245780558,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.061791245780558,
+    "three_inst_ratio_change_20": 1.5676214533438566
+  },
+  {
+    "date": "2025-12-24",
+    "code": "5274",
+    "name": "信驊",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 5.056497970977459,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.056497970977459,
+    "three_inst_ratio_change_20": 1.5004251682122582
+  },
+  {
+    "date": "2025-12-26",
+    "code": "5274",
+    "name": "信驊",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 5.112049580605187,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.112049580605187,
+    "three_inst_ratio_change_20": 1.5660289738678617
   }
 ]

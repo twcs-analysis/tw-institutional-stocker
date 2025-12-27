@@ -691,5 +691,104 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.999709849398901,
     "three_inst_ratio_change_20": 0.6875830008837069
+  },
+  {
+    "date": "2025-12-15",
+    "code": "6223",
+    "name": "旺矽",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 3.087866009773693,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.087866009773693,
+    "three_inst_ratio_change_20": 0.7948573647132728
+  },
+  {
+    "date": "2025-12-16",
+    "code": "6223",
+    "name": "旺矽",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 3.1122948252992373,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.1122948252992373,
+    "three_inst_ratio_change_20": 0.8985619351088658
+  },
+  {
+    "date": "2025-12-17",
+    "code": "6223",
+    "name": "旺矽",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 2.9377881126537164,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.9377881126537164,
+    "three_inst_ratio_change_20": 0.8706281156166131
+  },
+  {
+    "date": "2025-12-18",
+    "code": "6223",
+    "name": "旺矽",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 2.88956775505112,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.88956775505112,
+    "three_inst_ratio_change_20": 0.8919226078979892
+  },
+  {
+    "date": "2025-12-19",
+    "code": "6223",
+    "name": "旺矽",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 2.9789984623228962,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.9789984623228962,
+    "three_inst_ratio_change_20": 0.8963824599150225
+  },
+  {
+    "date": "2025-12-22",
+    "code": "6223",
+    "name": "旺矽",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 3.000771971813055,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.000771971813055,
+    "three_inst_ratio_change_20": 0.7407804641190299
+  },
+  {
+    "date": "2025-12-23",
+    "code": "6223",
+    "name": "旺矽",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 2.821590858422842,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.821590858422842,
+    "three_inst_ratio_change_20": 0.11657005919824259
+  },
+  {
+    "date": "2025-12-24",
+    "code": "6223",
+    "name": "旺矽",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 2.8428333067059244,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.8428333067059244,
+    "three_inst_ratio_change_20": 0.14206099713794096
+  },
+  {
+    "date": "2025-12-26",
+    "code": "6223",
+    "name": "旺矽",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 3.0340153412536655,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.0340153412536655,
+    "three_inst_ratio_change_20": 0.3215596851299871
   }
 ]

@@ -691,5 +691,104 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.161092371767463,
     "three_inst_ratio_change_20": 6.097181972223542
+  },
+  {
+    "date": "2025-12-15",
+    "code": "8358",
+    "name": "金居",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 15.222457123853864,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.222457123853864,
+    "three_inst_ratio_change_20": 6.158546724309943
+  },
+  {
+    "date": "2025-12-16",
+    "code": "8358",
+    "name": "金居",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 15.170198109173832,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.170198109173832,
+    "three_inst_ratio_change_20": 6.10628770962991
+  },
+  {
+    "date": "2025-12-17",
+    "code": "8358",
+    "name": "金居",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 15.064888276561039,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.064888276561039,
+    "three_inst_ratio_change_20": 5.941592633062536
+  },
+  {
+    "date": "2025-12-18",
+    "code": "8358",
+    "name": "金居",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 15.065284178187405,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.065284178187405,
+    "three_inst_ratio_change_20": 4.493780385449824
+  },
+  {
+    "date": "2025-12-19",
+    "code": "8358",
+    "name": "金居",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 15.024902212298288,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.024902212298288,
+    "three_inst_ratio_change_20": 3.6362574627456574
+  },
+  {
+    "date": "2025-12-22",
+    "code": "8358",
+    "name": "金居",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 14.937803854498236,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.937803854498236,
+    "three_inst_ratio_change_20": 2.4818083202685806
+  },
+  {
+    "date": "2025-12-23",
+    "code": "8358",
+    "name": "金居",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 14.734706320173563,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.734706320173563,
+    "three_inst_ratio_change_20": 1.7810624416045098
+  },
+  {
+    "date": "2025-12-24",
+    "code": "8358",
+    "name": "金居",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 14.69986697705354,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.69986697705354,
+    "three_inst_ratio_change_20": 1.7454312952317608
+  },
+  {
+    "date": "2025-12-26",
+    "code": "8358",
+    "name": "金居",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 14.549820260661631,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.549820260661631,
+    "three_inst_ratio_change_20": 1.5941968739607582
   }
 ]

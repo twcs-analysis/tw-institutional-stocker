@@ -691,5 +691,104 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.1912816419466,
     "three_inst_ratio_change_20": 0.43303885040694734
+  },
+  {
+    "date": "2025-12-15",
+    "code": "3491",
+    "name": "昇達科",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 4.162733031227928,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.162733031227928,
+    "three_inst_ratio_change_20": 0.40449023968827547
+  },
+  {
+    "date": "2025-12-16",
+    "code": "3491",
+    "name": "昇達科",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 4.162733031227928,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.162733031227928,
+    "three_inst_ratio_change_20": 0.3939723304761329
+  },
+  {
+    "date": "2025-12-17",
+    "code": "3491",
+    "name": "昇達科",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 4.230348161877414,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.230348161877414,
+    "three_inst_ratio_change_20": 0.5307051502339837
+  },
+  {
+    "date": "2025-12-18",
+    "code": "3491",
+    "name": "昇達科",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 4.230348161877414,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.230348161877414,
+    "three_inst_ratio_change_20": 0.5311559177716467
+  },
+  {
+    "date": "2025-12-19",
+    "code": "3491",
+    "name": "昇達科",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 4.228845603418537,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.228845603418537,
+    "three_inst_ratio_change_20": 0.5296533593127699
+  },
+  {
+    "date": "2025-12-22",
+    "code": "3491",
+    "name": "昇達科",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 4.228845603418537,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.228845603418537,
+    "three_inst_ratio_change_20": 0.4875817224642005
+  },
+  {
+    "date": "2025-12-23",
+    "code": "3491",
+    "name": "昇達科",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 4.228845603418537,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.228845603418537,
+    "three_inst_ratio_change_20": 0.4845766055464451
+  },
+  {
+    "date": "2025-12-24",
+    "code": "3491",
+    "name": "昇達科",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 4.251383980301699,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.251383980301699,
+    "three_inst_ratio_change_20": 0.48307254452910886
+  },
+  {
+    "date": "2025-12-26",
+    "code": "3491",
+    "name": "昇達科",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 4.239363512630679,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.239363512630679,
+    "three_inst_ratio_change_20": 0.48006742761135435
   }
 ]

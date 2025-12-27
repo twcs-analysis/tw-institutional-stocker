@@ -1,0 +1,29 @@
+services:
+  # 數據更新服務（一次性執行）
+  updater:
+    build:
+      context: ..
+      dockerfile: build/Dockerfile
+    volumes:
+      - ../data:/app/data
+      - ../docs:/app/docs
+    environment:
+      - TZ=Asia/Taipei
+    command: python update_all.py
+
+  # 網頁伺服器服務（持續運行）
+  web:
+    build:
+      context: ..
+      dockerfile: build/Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ../docs:/app/docs
+    environment:
+      - TZ=Asia/Taipei
+    working_dir: /app/docs
+    command: python -m http.server 8000
+    depends_on:
+      updater:
+        condition: service_completed_successfully

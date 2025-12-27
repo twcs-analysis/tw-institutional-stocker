@@ -1,66 +1,146 @@
-# tw_institutional_stocker
+# tw-institutional-stocker
 
 台股三大法人持股比重追蹤（上市 + 上櫃），自動每日更新並發佈到 GitHub Pages。
 
-## 新版重點
+## 專案特色
 
-- 支援多個變化視窗：`WINDOWS = [5, 20, 60, 120]`
-  - 產出：
-    - `docs/data/top_three_inst_change_5_up.json` / `..._down.json`
-    - `docs/data/top_three_inst_change_20_up.json` / ...
-    - `docs/data/top_three_inst_change_60_up.json` / ...
-    - `docs/data/top_three_inst_change_120_up.json` / ...
-  - 前端可透過下拉選單切換視窗。
+- 支援多個時間視窗：`WINDOWS = [5, 20, 60, 120]`
+- 三大法人模型升級：外資使用官方數據，投信/自營商支援基準點校正
+- 自動化數據更新：GitHub Actions 每日自動執行
+- Docker 容器化部署：一鍵啟動完整服務
 
-- 三大法人模型升級：
-  - 外資：仍採官方 `foreign_ratio`。
-  - 投信 / 自營商：支援「基準點校正」：
-    - 準備 `data/inst_baseline.csv`，格式：
-      ```csv
-      date,code,trust_shares_base,dealer_shares_base
-      2025-01-31,2330,100000000,20000000
-      2025-01-31,0050,50000000,0
-      ```
-    - 模型在每檔股票內以日期排序，若遇到 baseline：
-      - 設 `trust_shares_est = baseline_trust + sum(trust_net since baseline)`
-      - 設 `dealer_shares_est = baseline_dealer + sum(dealer_net since baseline)`
-    - 若完全沒有 baseline，則退化為純 cumsum 模型：
-      - `trust_shares_est = cumsum(trust_net)`
-      - `dealer_shares_est = cumsum(dealer_net)`
+## 專案結構
 
-## 結構概覽
-
-- `update_all.py`
-  - 從 TWSE / TPEX 抓取：
-    - 三大法人每日買賣超（上市 T86 + 上櫃 3itrade_hedge_result）
-    - 外資持股統計（上市 MI_QFIIS + 上櫃 QFII）
-  - 以 `inst_baseline.csv` 為基準點，搭配日淨買超推估投信 / 自營商持股。
-  - 計算三大法人持股比重與多個視窗的變化值。
-  - 匯出：
-    - `docs/data/timeseries/{code}.json`
-    - `docs/data/top_three_inst_change_{w}_up.json` / `..._down.json`
-
-- `docs/`
-  - 靜態前端（index.html + script.js + style.css）
-  - 提供：
-    - 隨輸入代碼動態載入該股三法人持股時序。
-    - 以 5 / 20 / 60 / 120 日變化排序的排名表，可點擊列載入該股圖。
-    - 市場過濾（全部 / TWSE / TPEX）與 log scale 切換。
-
-- `.github/workflows/update.yml`
-  - 每天 00:10 UTC 由 GitHub Actions 執行 `python update_all.py`
-  - 若 `data/` 或 `docs/data/` 有變動，會自動 commit + push 回 main 分支。
-
-## 本地開發
-
-```bash
-pip install -r requirements.txt
-python update_all.py
+```
+tw-institutional-stocker/
+├── build/                    # Docker 建置相關
+│   ├── Dockerfile           # Docker 映像檔定義
+│   ├── .dockerignore        # Docker 忽略檔案
+│   └── docker-compose.yml   # Docker Compose 設定
+├── deployment/               # 部署腳本
+│   ├── start.sh            # 啟動服務（build + run）
+│   └── stop.sh             # 停止服務
+├── data/                     # 數據目錄
+│   ├── *_flows.csv         # 三大法人買賣超數據
+│   ├── *_foreign.csv       # 外資持股數據
+│   └── inst_baseline.csv   # 投信/自營商基準點（選用）
+├── docs/                     # 前端靜態檔案
+│   ├── index.html
+│   ├── script.js
+│   ├── style.css
+│   └── data/               # 前端使用的 JSON 數據
+│       ├── timeseries/     # 個股時間序列
+│       └── top_three_inst_change_*.json  # 排名榜單
+├── .github/workflows/       # GitHub Actions
+│   └── update.yml          # 自動更新工作流程
+├── update_all.py           # 主程式：數據抓取與處理
+├── requirements.txt        # Python 相依套件
+└── README.md
 ```
 
-執行完後，`docs/data/` 底下會長出 json 檔，直接用 `python -m http.server` 或 VSCode Live Server 打開 `docs/index.html` 即可預覽。
+## 快速開始
 
-若要啟用「基準點校正」：
-1. 從投信 / 自營商的財報或官方持股統計整理出某幾個日期的「實際持股股數」。
-2. 填入 `data/inst_baseline.csv`。
-3. 重新跑 `python update_all.py`。之後 GitHub Actions 自動更新也會沿用這些 baseline。
+### 使用 Docker（推薦）
+
+1. **啟動服務**
+   ```bash
+   ./deployment/start.sh
+   ```
+
+   這個指令會：
+   - 建置 Docker 映像檔
+   - 抓取最新三大法人數據
+   - 啟動網頁伺服器（port 8000）
+
+2. **訪問網頁**
+
+   開啟瀏覽器訪問：http://localhost:8000
+
+3. **停止服務**
+   ```bash
+   ./deployment/stop.sh
+   ```
+
+### 本地開發
+
+```bash
+# 安裝相依套件
+pip install -r requirements.txt
+
+# 執行數據更新
+python update_all.py
+
+# 啟動網頁伺服器（在 docs 目錄）
+cd docs
+python -m http.server 8000
+```
+
+## 功能說明
+
+### 數據來源
+
+- **三大法人買賣超**：TWSE T86 + TPEX 3itrade_hedge_result
+- **外資持股統計**：TWSE MI_QFIIS + TPEX QFII
+
+### 三大法人模型
+
+- **外資**：直接採用官方 `foreign_ratio`
+- **投信/自營商**：支援基準點校正模型
+  - 若有提供 `data/inst_baseline.csv`，則從基準點開始累加淨買超
+  - 若無基準點，則使用純 cumsum 模型
+
+### 輸出檔案
+
+- **時間序列數據**：`docs/data/timeseries/{code}.json`
+- **排名榜單**：
+  - `docs/data/top_three_inst_change_5_up.json` / `_down.json`
+  - `docs/data/top_three_inst_change_20_up.json` / `_down.json`
+  - `docs/data/top_three_inst_change_60_up.json` / `_down.json`
+  - `docs/data/top_three_inst_change_120_up.json` / `_down.json`
+
+### 前端功能
+
+- 輸入股票代碼查看三大法人持股趨勢圖
+- 以 5/20/60/120 日變化排序的排名表
+- 市場過濾（全部/上市/上櫃）
+- Log scale 切換
+
+## GitHub Actions 自動化
+
+專案使用 GitHub Actions 每天 00:10 UTC 自動執行數據更新：
+
+1. 執行 `python update_all.py`
+2. 若 `data/` 或 `docs/data/` 有變動，自動 commit + push
+
+## 基準點校正（選用）
+
+若要啟用投信/自營商的基準點校正：
+
+1. 整理出某幾個日期的實際持股股數
+2. 填入 `data/inst_baseline.csv`：
+   ```csv
+   date,code,trust_shares_base,dealer_shares_base
+   2025-01-31,2330,100000000,20000000
+   2025-01-31,0050,50000000,0
+   ```
+3. 重新執行 `python update_all.py`
+
+## Docker 指令參考
+
+```bash
+# 查看服務狀態
+docker-compose -f build/docker-compose.yml ps
+
+# 查看網頁伺服器日誌
+docker-compose -f build/docker-compose.yml logs -f web
+
+# 只執行數據更新（不啟動網頁伺服器）
+docker-compose -f build/docker-compose.yml run --rm updater
+
+# 停止並清理所有容器
+docker-compose -f build/docker-compose.yml down
+```
+
+## 授權
+
+MIT License

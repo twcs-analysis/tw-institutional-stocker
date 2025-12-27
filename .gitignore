@@ -7,7 +7,7 @@ __pycache__/
 *.egg-info/
 *.egg
 dist/
-build/
+# Note: we have a build/ directory for Docker, so don't ignore it globally
 
 # Virtual environments
 venv/
