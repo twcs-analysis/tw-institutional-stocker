@@ -34,6 +34,7 @@ tw-institutional-stocker/
 ├── .github/workflows/       # GitHub Actions
 │   └── update.yml          # 自動更新工作流程
 ├── update_all.py           # 主程式：數據抓取與處理
+├── local_analysis.py       # 本地籌碼分析工具
 ├── requirements.txt        # Python 相依套件
 └── README.md
 ```
@@ -74,6 +75,20 @@ python update_all.py
 cd docs
 python -m http.server 8000
 ```
+
+### 本地籌碼分析工具
+
+快速查看最近幾天三大法人買賣超排行：
+
+```bash
+# 執行本地分析（需先執行 update_all.py 抓取資料）
+python local_analysis.py
+```
+
+此工具會顯示：
+- 近 5 日三大法人買超/賣超 Top 10
+- 近 10 日三大法人買超/賣超 Top 10
+- 包含外資、投信個別數據
 
 ## 功能說明
 
